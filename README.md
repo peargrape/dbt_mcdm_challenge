@@ -1,5 +1,6 @@
 # Marketing common data modelling challenge
 Here is my hometask done.
+See my tables and an MCDM table [here](https://github.com/peargrape/dbt_mcdm_challenge/tree/main/models)
 See my Looker dashboard [here](https://lookerstudio.google.com/reporting/c6bdd3c0-4481-4e61-be48-e623cfad610c/page/tEnnC).
 BTW, there is an issue with graph 'Cost per engage' as there is no data somehow related to the engagements metric similar to the one from Twitter table. Therefore, the original graph 'Cost per engage' from the example seems to be wrong. The rest graphs correspond.
 
